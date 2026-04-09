@@ -1,0 +1,16 @@
+{
+  "name": "discord-timestamp-bot",
+  "version": "1.0.0",
+  "description": "Discord bot that converts time+timezone into Discord timestamps",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "chrono-node": "^2.9.0",
+    "discord.js": "^14.19.1",
+    "luxon": "^3.7.2",
+    "dotenv": "^16.4.5"
+  }
+}
+``
